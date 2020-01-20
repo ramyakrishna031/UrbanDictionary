@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Urban Dictionary</string>
+    <string name="search_screen_title">Urban Dictionary</string>
+    <string name="search_screen_sub_title">Type here to search</string>
+    <string name="search_button_title">Search</string>
+    <string name="thumbs_up">Thumbs Up</string>
+    <string name="thumbs_down">Thumbs Down</string>
+    <string name="search_view_place_holder_text">Type here to search</string>
+</resources>

@@ -1,0 +1,15 @@
+package com.dat.common.models
+
+import org.junit.Assert.assertEquals
+import org.junit.Test
+
+class SearchResultListTest {
+
+    @Test
+    fun searchResult_null_values() {
+        val definition = ""
+        var builder: Any = SearchResultList.Builder()
+        val summary = builder
+        assertEquals(expected,summary)
+    }
+}
